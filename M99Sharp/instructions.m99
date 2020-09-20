@@ -1,0 +1,8 @@
+﻿00:ldb 99
+01:mov b, a
+02:ldb 99
+03:add
+04:str 99
+05:sub
+06:str 99
+07:jmp 99
